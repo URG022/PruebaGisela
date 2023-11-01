@@ -44,9 +44,15 @@
             // 
             // button1
             // 
+<<<<<<< HEAD
             this.button1.Location = new System.Drawing.Point(579, 380);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 46);
+=======
+            this.button1.Location = new System.Drawing.Point(184, 96);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(75, 23);
+>>>>>>> e415df6b67c94ae5420bdc5d08fefa9757948006
             this.button1.TabIndex = 1;
             this.button1.Text = "button1";
             this.button1.UseVisualStyleBackColor = true;
@@ -55,7 +61,11 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+<<<<<<< HEAD
             this.ClientSize = new System.Drawing.Size(1200, 692);
+=======
+            this.ClientSize = new System.Drawing.Size(800, 450);
+>>>>>>> e415df6b67c94ae5420bdc5d08fefa9757948006
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label1);
             this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
